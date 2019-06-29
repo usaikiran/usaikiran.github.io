@@ -49,11 +49,11 @@ projects:
 topics:
   - name: Machine Learning
     web_url: https://github.com/topics/css
-    image_url: https://github.com/usaikiran/usaikiran.github.io/blob/master/_data/img/ML-logo.png
+    image_url: https://cdn1.imggmi.com/uploads/2019/6/29/d8c0e365fe7292151c2a49457fde0285-full.png
 
   - name: EsoLangs
     web_url: https://esolangs.org
-    image_url: https://github.com/usaikiran/usaikiran.github.io/blob/master/_data/img/esolang.gif
+    image_url: https://cdn1.imggmi.com/uploads/2019/6/29/bec31fe073f065e4b5db520f22876e29-full.gif
 
   - name: Sass
     web_url: https://github.com/topics/sass
