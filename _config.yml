@@ -1,5 +1,5 @@
 layout: sidebar
-style: light
+style: dark
 
 plugins:
   - jekyll-octicons
@@ -28,7 +28,7 @@ projects:
     projects:
     - setup-opencv
 
-# social_media:
+social_media:
   # behance: your_username
   # dribbble: your_username
   # facebook: your_username
