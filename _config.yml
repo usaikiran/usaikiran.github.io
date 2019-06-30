@@ -55,8 +55,8 @@ topics:
     web_url: https://esolangs.org
     image_url: https://imgur.com/download/G9yuSHL
 
-  - name: Contribute to OpenSource 
-    image_url: https://imgur.com/download/5DIvSnU
-
   - name: Linux
     image_url: https://imgur.com/download/XAXo6Xz
+
+  - name: Contribute to OpenSource 
+    image_url: https://imgur.com/download/5DIvSnU
